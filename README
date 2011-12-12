@@ -1,0 +1,13 @@
+# full-bloom
+
+Bloom filter implementation in Clojure based on JavaEWAH, a word-aligned compressed variant of the Java bitset class. It uses a 64-bit run-length encoding (RLE) compression scheme.
+
+## Usage
+
+FIXME: write
+
+## License
+
+Copyright (C) 2011 Andreas Koestler
+
+Distributed under the Eclipse Public License, the same as Clojure.
